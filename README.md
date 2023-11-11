@@ -35,9 +35,10 @@ While academic performance is high, mental health concerns persist, especially a
 [2], [3] Gaps in student mental health services to be tackled, Webpage.  
 [4] Student Mental Health Dataset, Kaggle. Accessed on December, 2022. [Link](https://www.kaggle.com/datasets/shariful07/student-mental-health)
 
+
 **License:**
 The code and associated files in the "Analysis 1" project are the intellectual property of Hsin Pai. All rights are reserved by the copyright holder. This code is intended for the exclusive viewing of potential employers to assess the coding and analytical skills of Hsin Pai.
 
-Unauthorized use, reproduction, or distribution of this code, in whole or in part, without the written permission of Hsin Pai is strictly prohibited.
+Unauthorised use, reproduction, or distribution of this code, in whole or in part, without the written permission of Hsin Pai is strictly prohibited.
 
 © Hsin Pai, 2023
