@@ -1,37 +1,35 @@
 # Analysis 1
 
-## Mental Health Analysis Report
-
-### Introduction
+## Introduction
 
 This report delves into the mental health and academic performance of university students using a Kaggle dataset, driven by concerns raised by Iain Brennan and Minister Michelle Donelan.
 
-### Research Topic
+## Research Topic
 
 Explore the correlation between students' academic situation, mental health, and the effectiveness of a new UK government initiative. Key factors include year of study, grades (CGPA), mental health status, and treatment history.
 
-### Data Collection / Survey Design
+## Data Collection / Survey Design
 
 - **Population:** 101 university students surveyed via Google Forms.
 - **Research Questions:** Examine academic performance and mental health indicators.
 - **Scope:** Demographics, course, year of study, CGPA, depression/anxiety/panic attacks, and treatment-seeking.
 
-### Data Overview and Pre-processing
+## Data Overview and Pre-processing
 
 The dataset covers gender, age, program, year of study, CGPA, and mental health indicators. Key findings include a majority of female participants, most in year 1, and high academic performance.
 
-### Analysis and Results
+## Analysis and Results
 
 - **Demographics:** 74.3% female, mainly aged 18, studying engineering, BCS, and BIT.
 - **Academic Performance:** Predominantly high CGPA, with a majority scoring 3.50 to 4.00.
 - **Mental Health:** 63% report mental health issues, with year 1 students being the majority.
 - **Treatment-Seeking:** Only 5.9% sought specialist treatment.
 
-### Conclusions
+## Conclusions
 
 While academic performance is high, mental health concerns persist, especially among year 1 students. These findings align with government initiatives targeting mental health support for students.
 
-### References
+## References
 
 [1] Iain Brennan, Better targeting of mental health support is needed, Webpage.  
 [2], [3] Gaps in student mental health services to be tackled, Webpage.  
