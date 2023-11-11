@@ -1,7 +1,5 @@
 # Analysis 1
 
-# Analysis 1
-
 ## Mental Health Analysis Report
 
 ### Introduction
