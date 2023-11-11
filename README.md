@@ -1,40 +1,23 @@
-# About Analysis1
+# Analysis 1
 
-## Introduction
+## Introduction: Python Script for London Population Analysis
 
-This report, designated as Analysis1, delves into the mental health and academic performance of university students, leveraging data from Kaggle. The impetus for this exploration arises from the growing concern surrounding student mental health, a topic underscored by Iain Brennan and Minister Michelle Donelan.
+This Python script embarks on an illuminating course exercise, peeling back the layers of London's population changes. Navigating through a handful of probing questions, I delve into pivotal concepts like Timestamps, DateTimeIndexes, Timedeltas, Periods, and advanced hierarchical indexing (multi-index).
 
-## Research Topic
+**Key Concepts Explored:**
+- Time-indexed data
+- Timestamp and DateTimeIndex
+- TimeDelta and TimedeltaIndex
+- Period and PeriodIndex
+- Indicator variables and advanced hierarchical indexing (multi-index)
+- Resampling
 
-Analysis1 aims to uncover correlations between students' academic situations, mental health, and the efficacy of a recent UK government initiative. Key focal points include the year of study, grades (CGPA), mental health status, and treatment history.
+**Unlocking Insights:**
+The essence of this analysis lies in the pursuit of revelation and examination. Visualizing changing variables unveils the patterns, trends, and stories woven into the dynamic datasets. The script demonstrates my adept handling of date and time strings, the construction of meaningful multi-indexes, and the precision in resampling time-series data.
 
-## Data Collection / Survey Design
+**License:**
+The code and associated files in the "Analysis 1" project are the intellectual property of Hsin Pai. All rights are reserved by the copyright holder. This code is intended for the exclusive viewing of potential employers to assess the coding and analytical skills of Hsin Pai.
 
-- **Population:** 101 university students participated in the survey conducted via Google Forms.
-- **Research Questions:** This analysis investigates academic performance and mental health indicators.
-- **Scope:** Emphasis is placed on demographics, course, year of study, CGPA, depression/anxiety/panic attacks, and treatment-seeking.
+Unauthorized use, reproduction, or distribution of this code, in whole or in part, without the written permission of Hsin Pai is strictly prohibited.
 
-## Data Overview and Pre-processing
-
-The dataset encompasses information such as gender, age, program, year of study, CGPA, and mental health indicators. Key observations include a predominantly female participant base, most in year 1, and strong academic performance.
-
-## Analysis and Results
-
-- **Demographics:** 74.3% female, primarily aged 18, majoring in engineering, BCS, and BIT.
-- **Academic Performance:** CGPA scores are notably high, with the majority ranging from 3.50 to 4.00.
-- **Mental Health:** Approximately 63% report mental health issues, with year 1 students being the majority.
-- **Treatment-Seeking:** Only 5.9% sought specialist treatment.
-
-## Python Script
-
-This analysis is accompanied by a comprehensive Python script designed for the examination of student mental health issues.
-
-## Conclusions
-
-While the majority of participants exhibit strong academic performance, mental health concerns persist, especially among year 1 students. These findings align with government initiatives aimed at bolstering mental health support for students.
-
-## References
-
-[1] Student Mental Health Dataset, Kaggle. Accessed on December, 2022. [Link](https://www.kaggle.com/datasets/shariful07/student-mental-health)  
-[2] Iain Brennan, Better targeting of mental health support is needed, Webpage.
-
+© Hsin Pai, 2023
