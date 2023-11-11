@@ -35,5 +35,6 @@ While the majority of participants exhibit strong academic performance, mental h
 
 ## References
 
-[1] Iain Brennan, Better targeting of mental health support is needed, Webpage.  
-[2], [3] Gaps in student mental health services to be tackled, Webpage.
+[1] Student Mental Health Dataset, Kaggle. Accessed on December, 2022. [Link](https://www.kaggle.com/datasets/shariful07/student-mental-health)
+[2] Iain Brennan, Better targeting of mental health support is needed, Webpage. 
+
